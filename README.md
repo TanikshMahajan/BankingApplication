@@ -1,6 +1,6 @@
 # BankingApplication
 
-Welcome to the Simple Banking Console Application project! This project is a basic banking application implemented in Java that runs on the console. It provides a simple command-line interface for users to perform basic banking operations.
+Welcome to the Banking Application project! This project is a basic banking application implemented in Java that runs on the console. It provides a simple command-line interface for users to perform basic banking operations.
 
 #Introduction
 
